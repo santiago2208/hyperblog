@@ -1,5 +1,5 @@
 body {
-    color: brown;
+    color: rgb(105, 117, 103);
     text-align: center;
 
      
@@ -7,6 +7,7 @@ body {
 
 header {
     margin: 0px auto;
-    background-color: rgb(188, 117, 24);
+
+    background-color: rgba(188, 117, 24, 0.392);
 
 }
