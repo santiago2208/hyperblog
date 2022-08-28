@@ -1,6 +1,12 @@
 body {
     color: brown;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;   
-    
+
+     
+}
+
+header {
+    margin: 0px auto;
+    background-color: antiquewhite;
+
 }
