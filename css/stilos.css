@@ -3,3 +3,8 @@ body {
     text-align: center;
     font-family: "Arial";   
 }
+
+header {
+    margin: 0px auto;
+    background-color: antiquewhite;
+}
